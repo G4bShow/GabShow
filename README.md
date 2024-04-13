@@ -1,4 +1,4 @@
-# GabShow
+# ESTUDOS
 Aula de Python / Comandos
 # Estudos PYTHON
 
